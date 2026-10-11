@@ -1,0 +1,32 @@
+[
+  {
+    "output": "assets/icons/noun_Globe_2117848.svg",
+    "object": "location",
+    "op": "display"
+  },
+  {
+    "output": "assets/icons/noun_Home_3359355.svg",
+    "object": "view",
+    "op": "display"
+  },
+  {
+    "output": "assets/icons/noun_Information_585560.svg",
+    "object": "info",
+    "op": null
+  },
+  {
+    "output": "sam-viewer/v-2020-05-26/js/noun_Information_585560.svg",
+    "object": "info",
+    "op": null
+  },
+  {
+    "output": "sam-viewer/v-2020-05-29/assets/noun_Home_3359355.svg",
+    "object": "view",
+    "op": "display"
+  },
+  {
+    "output": "sam-viewer/v-2020-05-29/js/noun_Information_585560.svg",
+    "object": "info",
+    "op": null
+  }
+]
